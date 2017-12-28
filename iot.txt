@@ -1,0 +1,13 @@
+IOT - Reunir informações na internet
+
+
+arduino.cc/en/Main/Software
+
+Kit 9
+
+
+Sites:
+
+https://trello.com/b/wgogtKg7/quadro-sem-t%C3%ADtulo
+
+https://github.com/MatiasFernandes/iot
